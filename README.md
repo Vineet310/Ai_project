@@ -22,8 +22,11 @@ Highlights :-
 
 Reference Links:-
 https://www.researchgate.net/publication/349118738_Introducing_Artificial_Intelligence_in_Traffic_Management_for_a_Sustainable_Urban_Development
+
 https://www.isarsoft.com/article/ai-in-traffic-management
-[[https://ieeexplore.ieee.org/document/9197856](https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/)
-]https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/)https://hyscaler.com/insights/ai-in-traffic-management-5-effective-ways/
+
+[[https://ieeexplore.ieee.org/document/9197856](https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/)]
+
+https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/)https://hyscaler.com/insights/ai-in-traffic-management-5-effective-ways/
 
   
