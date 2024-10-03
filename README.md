@@ -25,7 +25,7 @@ https://www.researchgate.net/publication/349118738_Introducing_Artificial_Intell
 
 https://www.isarsoft.com/article/ai-in-traffic-management
 
-[[https://ieeexplore.ieee.org/document/9197856](https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/)]
+[[https://ieeexplore.ieee.org/document/9197856]
 
 https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/
   
