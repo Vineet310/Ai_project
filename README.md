@@ -27,6 +27,5 @@ https://www.isarsoft.com/article/ai-in-traffic-management
 
 [[https://ieeexplore.ieee.org/document/9197856](https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/)]
 
-https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/)https://hyscaler.com/insights/ai-in-traffic-management-5-effective-ways/
-
+https://www.clickworker.com/customer-blog/artificial-intelligence-road-traffic/
   
